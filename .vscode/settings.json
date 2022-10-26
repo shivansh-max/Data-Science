@@ -1,3 +1,6 @@
 {
-	"wolf.disableHotModeWarning": true
+	"wolf.disableHotModeWarning": true,
+	"python.linting.pylintEnabled": false,
+	"python.linting.enabled": false,
+	"python.linting.flake8Enabled": true
 }
